@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,java,python,github,git,notion,obsidian,linux,ubuntu,vscode,vercel,kali,windows" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,java,python,wireshark,tcpdump,github,git,notion,obsidian,linux,ubuntu,vscode,vercel,kali,windows" />
   </a>
   
 </p>
