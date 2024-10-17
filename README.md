@@ -14,6 +14,7 @@
 
 </p>
 
+![playeron1's Stats](https://github-readme-stats.vercel.app/api?username=playeron1&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 
 <h1 align="center"><b>Certifications</b></h1><br>
 
