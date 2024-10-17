@@ -26,6 +26,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,java,python,github,git,notion,obsidian,linux,ubuntu,vscode,vercel,kali,windows" />
+    <img align="center" src = "https://leetcard.jacoblin.cool/krishnshah2003?border=0&radius=20&font=Montserrat">
   </a>
   
 </p>
@@ -40,13 +41,7 @@
 
 
 
-<h1 align="center"><b>Programming</b></h1>
-<p align="center">
-<h3>Leetcode</h3>
-<img align="center" src = "https://leetcard.jacoblin.cool/krishnshah2003?border=0&radius=20&font=Montserrat">
-  <h3>Hackerrank</h3>
-  <a href="https://www.hackerrank.com/@krishnshah2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@krishnshah2003" height="100" width="100" /></a>
-</p>
+
 
 
 
