@@ -26,7 +26,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,java,python,github,git,notion,obsidian,linux,ubuntu,vscode,vercel,kali,windows" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,java,python,github,git,notion,obsidian,linux,ubuntu,vscode,vercel,kali,windows" />
     <img align="center" src = "https://leetcard.jacoblin.cool/krishnshah2003?border=0&radius=20&font=Montserrat">
   </a>
   
