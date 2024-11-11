@@ -27,6 +27,9 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,java,python,github,git,notion,obsidian,linux,ubuntu,vscode,vercel,kali,windows" />
+    <h3>Tools</h3>
+    <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='WireShark' src='https://img.shields.io/badge/Wireshark-100000?style=for-the-badge&logo=WireShark&logoColor=004DE5&labelColor=FEFEFF&color=008FFD'/></a>
+    <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Burpsuite' src='https://img.shields.io/badge/Burpsuite-100000?style=for-the-badge&logo=Burpsuite&logoColor=FE5E01&labelColor=FEFCFD&color=FEA201'/></a>
     <img align="center" src = "https://leetcard.jacoblin.cool/krishnshah2003?border=0&radius=20&font=Montserrat">
   </a>
   
