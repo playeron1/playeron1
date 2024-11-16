@@ -11,19 +11,17 @@
   <a href = "https://x.com/krish_shah10"></a><img src="https://skillicons.dev/icons?i=twitter" /> 
   <a href = "https://www.linkedin.com/in/krish-shah-cybersecurity/details/skills/"></a><img src="https://skillicons.dev/icons?i=linkedin" />
 </p>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/krishnshah2003.png" alt="Your Image Badge" />
 </p>
 
 ![playeron1's Stats](https://github-readme-stats.vercel.app/api?username=playeron1&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 ![playeron1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=playeron1&theme=gotham&show_icons=true&hide_border=true&layout=compact)
-
 <h1 align="left"><b>Certifications</b></h1><br>
 
 - Google Cyber Security Certification
 
 
 <h1 align="left"><b>Tech stack</b></h1>
-
 <p align="left">
   <a href="https://skillicons.dev">
     <h3>Programming Languages</h3>
