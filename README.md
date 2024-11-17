@@ -18,7 +18,7 @@
 ![playeron1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=playeron1&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 <h1 align="left"><b>Certifications</b></h1><br>
 
-- Google Cyber Security Certification
+<a href='https://www.credly.com/badges/536cc8d0-4f17-4020-966b-4de1f9d0bb1a/public_url' target="_blank"><img alt='Google' src='https://img.shields.io/badge/Google_Cyber security Certification-100000?style=for-the-badge&logo=Google&logoColor=000000&labelColor=FEFEFF&color=45BD39'/></a>
 
 
 <h1 align="left"><b>Tech stack</b></h1>
