@@ -25,11 +25,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <h3>Programming Languages</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,java,python" />
-    <h3>Notetaking tools</h3>
-    <img src = "https://skillicons.dev/icons?i=notion,obsidian" />
-    <h3>Tools Used</h3>
-    <img src = "https://skillicons.dev/icons?i=nodejs,github,git,vscode,vercel" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,java,python,nodejs,git,github,vscode,notion,obsidian" />
     <h3>Operating Systems</h3>
     <img src = "https://skillicons.dev/icons?i=linux,ubuntu,kali,windows" />
     <h3>Network</h3>
