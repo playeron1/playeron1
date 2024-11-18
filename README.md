@@ -34,7 +34,7 @@
     <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Burpsuite' src='https://img.shields.io/badge/Burpsuite-100000?style=for-the-badge&logo=Burpsuite&logoColor=FE5E01&labelColor=FEFCFD&color=FEA201'/></a>
     <h3>Threat Intelligence</h3>
    <a href='any.run' target="_blank"><img alt='anydesk' src='https://img.shields.io/badge/Any.run-100000?style=for-the-badge&logo=anydesk&logoColor=000000&labelColor=FEFEFF&color=45BD39'/></a>
-    <h2>Data Structures & Algorithms on Competitive Platforms</h2>
+    <h2>Data Structures & Algorithms @Leetcode</h2>
     <img align="center" src = "https://leetcard.jacoblin.cool/krishnshah2003?border=0&radius=20&font=Montserrat">
   </a>
   
