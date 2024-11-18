@@ -25,7 +25,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <h3>Programming Languages</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,java,python,nodejs,git,github,vscode,notion,obsidian" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,java,python,figma,nodejs,git,github,vscode,notion,obsidian" />
     <h3>Operating Systems</h3>
     <img src = "https://skillicons.dev/icons?i=linux,ubuntu,kali,windows" />
     <h3>Network</h3>
