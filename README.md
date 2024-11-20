@@ -1,4 +1,6 @@
 <h1 align="center"><b>About Me 👨🏻‍💻</b></h1>
+
+<a href="https://u8views.com/github/playeron1"><img src="https://u8views.com/api/v1/github/profiles/114710058/views/day-week-month-total-count.svg"></a>
 <p align="center"><img src = "https://img.shields.io/badge/Cyber%20Security%20Passionate%20-%20Cyber%20Security?style=for-the-badge&color=%23FFFF"> <img src = "https://img.shields.io/badge/Cloud%20Computing%20-%20Cloud%20Computing?style=for-the-badge&logoColor=%230000&logoSize=300px&labelColor=%230000&color=%23FFFF"/></p>
 
 <h1 align="center" font-size=2vi><b>A passionate Cyber Security Engineer/ Cloud Security from the Silicon Valley of India</b></h1>
