@@ -1,7 +1,8 @@
 <h1 align="center"><b>About Me 👨🏻‍💻</b></h1>
-
-<a href="https://u8views.com/github/playeron1"><img src="https://u8views.com/api/v1/github/profiles/114710058/views/day-week-month-total-count.svg"></a>
 <p align="center"><img src = "https://img.shields.io/badge/Cyber%20Security%20Passionate%20-%20Cyber%20Security?style=for-the-badge&color=%23FFFF"> <img src = "https://img.shields.io/badge/Cloud%20Computing%20-%20Cloud%20Computing?style=for-the-badge&logoColor=%230000&logoSize=300px&labelColor=%230000&color=%23FFFF"/></p>
+
+[![](https://visitcount.itsvg.in/api?id=playeron1&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
 <h1 align="center" font-size=2vi><b>A passionate Cyber Security Engineer/ Cloud Security from the Silicon Valley of India</b></h1>
 <h2 align="center" font-size=2vi>🌐 Check out <a href="https://krish-shah-umber.vercel.app/">my website</a> </h2>
@@ -16,8 +17,9 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/krishnshah2003.png" alt="Your Image Badge" />
 </p>
 
-![playeron1's Stats](https://github-readme-stats.vercel.app/api?username=playeron1&theme=gotham&show_icons=true&hide_border=true&count_private=false)
-![playeron1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=playeron1&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=playeron1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=playeron1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=playeron1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <h1 align="left"><b>Certifications</b></h1><br>
 
 <a href='https://www.credly.com/badges/536cc8d0-4f17-4020-966b-4de1f9d0bb1a/public_url' target="_blank"><img alt='Google' src='https://img.shields.io/badge/Google_Cyber security Certification-100000?style=for-the-badge&logo=Google&logoColor=000000&labelColor=FEFEFF&color=45BD39'/></a>
@@ -44,6 +46,10 @@
 
 
 
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
