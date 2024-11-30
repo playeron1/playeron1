@@ -14,7 +14,7 @@
   <a href = "https://x.com/krish_shah10"></a><img src="https://skillicons.dev/icons?i=twitter" /> 
   <a href = "https://www.linkedin.com/in/krish-shah-cybersecurity/details/skills/"></a><img src="https://skillicons.dev/icons?i=linkedin" />
 </p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/krishnshah2003.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/darkfighter.png" alt="Your Image Badge" />
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=playeron1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
