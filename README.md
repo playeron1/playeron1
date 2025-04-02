@@ -35,6 +35,8 @@
     <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='WireShark' src='https://img.shields.io/badge/Wireshark-100000?style=for-the-badge&logo=WireShark&logoColor=004DE5&labelColor=FEFEFF&color=008FFD'/></a>
     <h3>Framework</h3>
     <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Burpsuite' src='https://img.shields.io/badge/Burpsuite-100000?style=for-the-badge&logo=Burpsuite&logoColor=FE5E01&labelColor=FEFCFD&color=FEA201'/></a>
+    <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='ISO/IEC 27001 ' src='https://img.shields.io/badge/ISO/IEC_27001 -100000?style=for-the-badge&logo=ISO/IEC 27001 &logoColor=white&labelColor=black&color=black'/></a>
+    <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='ISO/IEC 27001 ' src='https://img.shields.io/badge/ISO/IEC_27002-100000?style=for-the-badge&logo=ISO/IEC 27001 &logoColor=white&labelColor=black&color=black'/></a>
     <h3>Threat Intelligence</h3>
    <a href='any.run' target="_blank"><img alt='anydesk' src='https://img.shields.io/badge/Any.run-100000?style=for-the-badge&logo=anydesk&logoColor=000000&labelColor=FEFEFF&color=45BD39'/></a>
     <h2>Data Structures & Algorithms @Leetcode</h2>
